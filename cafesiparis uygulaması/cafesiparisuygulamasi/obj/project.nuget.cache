@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yrQrwr34tmBPj0L8i4SjVHMF1N8u8zW2lmARwJ+TEMlvKuRE0depaezo+SuQzRS70AsBuMJPsqD09e8fuMGdMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\ZEYNEP EZGİ\\2 SINIF GÜZ DÖNEMİ DERSLERİ\\Görsel Programlama\\cafesiparis uygulaması\\cafesiparisuygulamasi\\cafesiparisuygulamasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
