@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\cafesiparis uygulaması\cafesiparisuygulamasi\bin\Debug\netcoreapp3.1\cafesiparisuygulamasi.exe
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\cafesiparis uygulaması\cafesiparisuygulamasi\bin\Debug\netcoreapp3.1\cafesiparisuygulamasi.deps.json
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\cafesiparis uygulaması\cafesiparisuygulamasi\bin\Debug\netcoreapp3.1\cafesiparisuygulamasi.runtimeconfig.json
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\cafesiparis uygulaması\cafesiparisuygulamasi\bin\Debug\netcoreapp3.1\cafesiparisuygulamasi.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\cafesiparis uygulaması\cafesiparisuygulamasi\bin\Debug\netcoreapp3.1\cafesiparisuygulamasi.dll
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\cafesiparis uygulaması\cafesiparisuygulamasi\bin\Debug\netcoreapp3.1\cafesiparisuygulamasi.pdb
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\cafesiparis uygulaması\cafesiparisuygulamasi\obj\Debug\netcoreapp3.1\cafesiparisuygulamasi.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\cafesiparis uygulaması\cafesiparisuygulamasi\obj\Debug\netcoreapp3.1\cafesiparisuygulamasi.Form1.resources
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\cafesiparis uygulaması\cafesiparisuygulamasi\obj\Debug\netcoreapp3.1\cafesiparisuygulamasi.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\cafesiparis uygulaması\cafesiparisuygulamasi\obj\Debug\netcoreapp3.1\cafesiparisuygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\cafesiparis uygulaması\cafesiparisuygulamasi\obj\Debug\netcoreapp3.1\cafesiparisuygulamasi.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\cafesiparis uygulaması\cafesiparisuygulamasi\obj\Debug\netcoreapp3.1\cafesiparisuygulamasi.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\cafesiparis uygulaması\cafesiparisuygulamasi\obj\Debug\netcoreapp3.1\cafesiparisuygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\cafesiparis uygulaması\cafesiparisuygulamasi\obj\Debug\netcoreapp3.1\cafesiparisuygulamasi.dll
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\cafesiparis uygulaması\cafesiparisuygulamasi\obj\Debug\netcoreapp3.1\cafesiparisuygulamasi.pdb
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\cafesiparis uygulaması\cafesiparisuygulamasi\obj\Debug\netcoreapp3.1\cafesiparisuygulamasi.genruntimeconfig.cache
