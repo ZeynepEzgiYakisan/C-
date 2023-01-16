@@ -1,3 +1,4 @@
 # C-sharp
-CAFE SİPARİS UYGULAMASİ 
+KAFE SİPARİŞ OTOMASYONU 
+
 Bu uygulamada cafe siparisi üzerine bir otomasyon yaptımm
