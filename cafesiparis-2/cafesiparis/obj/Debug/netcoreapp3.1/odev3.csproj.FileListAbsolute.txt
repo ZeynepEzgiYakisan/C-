@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\odev3\odev3\bin\Debug\netcoreapp3.1\odev3.exe
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\odev3\odev3\bin\Debug\netcoreapp3.1\odev3.deps.json
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\odev3\odev3\bin\Debug\netcoreapp3.1\odev3.runtimeconfig.json
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\odev3\odev3\bin\Debug\netcoreapp3.1\odev3.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\odev3\odev3\bin\Debug\netcoreapp3.1\odev3.dll
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\odev3\odev3\bin\Debug\netcoreapp3.1\odev3.pdb
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.Form1.resources
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.dll
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.pdb
+C:\Users\Acer\Desktop\ZEYNEP EZGİ\2 SINIF GÜZ DÖNEMİ DERSLERİ\Görsel Programlama\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.genruntimeconfig.cache
